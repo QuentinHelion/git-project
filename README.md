@@ -5,13 +5,13 @@
 - [ ] Soutenance de 15 minutes
 ## Notation:
 - [ ] Qualité de la soutenance (3 points)
-- [ ] Commits signés de tous les membres et sur tous les commits (1 point)
+- [x] Commits signés de tous les membres et sur tous les commits (1 point)
 - [x] Issue + issue templates (1 point)
 - [x] Merge Request + Merge Request template (1 point)
 - [x] Github project (1 point)
 - [x] Un readme, contributing, code of conduct correctement rédigés (1 point)
 - [x] Un .gitignore cohérent (1 point)
-- [ ] Respect du Git flow (les bonnes branches et les bonnes protection de branche) (2
+- [x] Respect du Git flow (les bonnes branches et les bonnes protection de branche) (2
 points)
 - [x] Un hooks qui vérifie un code js (linter) (2 points)
 - [ ] Question de cours individuel (3 points)
